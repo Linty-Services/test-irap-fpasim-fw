@@ -136,3 +136,6 @@ launch_sim_processed.json
 
 # untracked temporary files
 /constraints/*/*_tmp.xdc
+
+.linty/work/
+.scannerwork/
